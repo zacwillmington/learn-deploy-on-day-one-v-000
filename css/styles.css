@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#zac-willmington-cover {
+ background-image: url("http://res.cloudinary.com/zacwillmington/image/upload/v1525200204/header-img_zzem4f.jpg");
+}
+
+#zac-willmington-card {
+ background-image: url("http://res.cloudinary.com/zacwillmington/image/upload/v1525200149/italki_pic_final_cq7puq.png");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
